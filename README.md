@@ -1,4 +1,4 @@
-Este código implementa um aplicativo de previsão do tempo utilizando React Native. Aqui está um resumo das principais funcionalidades e uso do aplicativo:
+Este código implementa um aplicativo de previsão do tempo utilizando React Native. Para usar o WeatherApp, começa-se baixando o pacote 'axios' com o comando -> npm install axios, dentro da pasta do App no cmd. Aqui está um resumo das principais funcionalidades e uso do aplicativo:
 
 1. **Entrada de Cidade**: O usuário pode digitar o nome de uma cidade na caixa de entrada de texto fornecida.
 
